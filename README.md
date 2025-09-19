@@ -67,23 +67,23 @@ Dự án **Trò chơi Oẳn Tù Tì qua mạng** giúp sinh viên vận dụng k
 ## 🚀 Hình ảnh giao diện
 ### 1. Đăng nhập
 <p align="center">
-<img src="<img width="334" height="152" alt="image" src="docs/z7026864861786_373d2cdffba33c393f52291a76c633a0.jpg" />
-" width="400" />
+  <img src="docs/z7026864861786_373d2cdffba33c393f52291a76c633a0.jpg" width="400" />
 </p>
+
 **Giao diện đăng nhập** – Người chơi nhập username.
 
 ### 2. Gameplay
-<p align="center">
-<img src="<img width="853" height="612" alt="image" src="docs/z7026921124523_cac7ec2cc7133953b6c3284f0c669d0d.jpg" />
-" width="500" />
-</p>
+<div align="center">
+  <img src="docs/z7026921124523_cac7ec2cc7133953b6c3284f0c669d0d.jpg" width="500" />
+</div>
+
 **Giao diện trò chơi chính** – Chọn nước đi và xem lịch sử trận đấu.
 
 ### 3. Kết quả & lịch sử
-<p align="center">
-<img src="<img width="856" height="615" alt="image" src="docs/z7026924475365_915c573e1615eb022fb3ec8569268527.jpg" />
-" width="500" />
-</p>
+<div align="center">
+  <img src="docs/z7026924475365_915c573e1615eb022fb3ec8569268527.jpg" width="500" />
+</div>
+
 **Hiển thị kết quả và lịch sử chơi** – Điểm số và kết quả trận đấu.
 
 ---
