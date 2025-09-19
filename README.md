@@ -8,9 +8,9 @@
 </h2>
 <div align="center">
     <p align="center">
-        <img src="images/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-        <img src="images/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
-        <img src="images/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+        <img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
+        <img src="docs/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
+        <img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
     </p>
 
 [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
@@ -63,22 +63,21 @@ Dự án **Trò chơi Oẳn Tù Tì qua mạng** giúp sinh viên vận dụng k
 ## 🚀 Hình ảnh giao diện
 ### 1. Đăng nhập
 <p align="center">
-<img src="<img width="334" height="152" alt="image" src="![Uploading image.png…]()
-" />
+<img src="<img width="334" height="152" alt="image" src="docs/z7026864861786_373d2cdffba33c393f52291a76c633a0.jpg" />
 " width="400" />
 </p>
 **Giao diện đăng nhập** – Người chơi nhập username.
 
 ### 2. Gameplay
 <p align="center">
-<img src="<img width="853" height="612" alt="image" src="https://github.com/user-attachments/assets/d3a676a0-2ffe-43e6-a488-9cf472f2d054" />
+<img src="<img width="853" height="612" alt="image" src="docs/z7026921124523_cac7ec2cc7133953b6c3284f0c669d0d.jpg" />
 " width="500" />
 </p>
 **Giao diện trò chơi chính** – Chọn nước đi và xem lịch sử trận đấu.
 
 ### 3. Kết quả & lịch sử
 <p align="center">
-<img src="<img width="856" height="615" alt="image" src="https://github.com/user-attachments/assets/6fcfe445-604e-4af1-b9af-5acb116d526a" />
+<img src="<img width="856" height="615" alt="image" src="docs/z7026924475365_915c573e1615eb022fb3ec8569268527.jpg" />
 " width="500" />
 </p>
 **Hiển thị kết quả và lịch sử chơi** – Điểm số và kết quả trận đấu.
