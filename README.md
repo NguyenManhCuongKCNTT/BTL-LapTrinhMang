@@ -1,17 +1,23 @@
-# 🎮 Trò chơi Oẳn Tù Tì Multiplayer (Java TCP Socket)
+<h2 align="center">
+    <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
+    🎓 Faculty of Information Technology (DaiNam University)
+    </a>
+</h2>
+<h2 align="center">
+   TRÒ CHƠI OẲN TÙ TÌ QUA MẠNG
+</h2>
+<div align="center">
+    <p align="center">
+        <img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
+        <img src="docs/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
+        <img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+    </p>
 
-<p align="center">
-  <img src="docs/aiotlab_logo.png" width="120" />
-  <img src="docs/fitdnu_logo.png" width="120" />
-  <img src="docs/dnu_logo.png" width="120" />
-</p>
+[![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
+[![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![TCP Socket](https://img.shields.io/badge/TCP%20Socket-006400?style=for-the-badge)]()
-[![Multithreading](https://img.shields.io/badge/Multithreading-8B0000?style=for-the-badge)]()
-[![IDE](https://img.shields.io/badge/Eclipse%20%2F%20IntelliJ%20IDEA%20%2F%20NetBeans-800080?style=for-the-badge&logo=eclipseide&logoColor=white)]()
-
----
+</div> 
 
 ## 📑 Table of Contents
 1. [Giới thiệu](#-giới-thiệu)
@@ -143,7 +149,7 @@ Dự án **Trò chơi Oẳn Tù Tì qua mạng** giúp sinh viên vận dụng k
 - Chọn Play Again để chơi tiếp.     
 - Chọn Leave để thoát phòng.
 - 
-- ## 📬 **5. Liên hệ**
+- ## 📬 ** Liên hệ**
 - **Sinh viên thực hiện:** **Nguyễn Mạnh Cường**
 - **Khoa công nghệ thông tin – Đại học Đại Nam**  
 - 🌐 Website: [https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)  
