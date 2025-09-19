@@ -63,7 +63,8 @@ Dự án **Trò chơi Oẳn Tù Tì qua mạng** giúp sinh viên vận dụng k
 ## 🚀 Hình ảnh giao diện
 ### 1. Đăng nhập
 <p align="center">
-<img src="<img width="334" height="152" alt="image" src="https://github.com/user-attachments/assets/21211ebb-b240-4328-9204-07797bdc19d6" />
+<img src="<img width="334" height="152" alt="image" src="![Uploading image.png…]()
+" />
 " width="400" />
 </p>
 **Giao diện đăng nhập** – Người chơi nhập username.
